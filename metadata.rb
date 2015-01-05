@@ -6,3 +6,5 @@ description      'Installs/Configures simple-deploy'
 long_description 'Installs/Configures simple-deploy'
 version          '0.1.0'
 
+
+depends 'go-chef'
